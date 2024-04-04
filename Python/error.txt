@@ -1,0 +1,8 @@
+Executing script: C:\Users\Caleb\Code Projects\terminalQuestCode\Python\fizzbuzz.py
+Script arguments: -3000,7,6,100
+Output:
+Traceback (most recent call last):
+  File "C:\Users\Caleb\Code Projects\terminalQuestCode\Python\fizzbuzz.py", line 7, in <module>
+    if inputs(currentElement) % 3 == 0 and inputs(currentElement) % 5 == 0:
+TypeError: 'list' object is not callable
+
